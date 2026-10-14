@@ -1,0 +1,10 @@
+date,student,minutes,status,note
+2026-09-01,Maria K.,60,Taught,
+2026-09-08,Maria K.,60,Late cancel,Texted 8am for a 10am lesson
+2026-09-15,Maria K.,60,Taught,
+2026-09-02,Tom H.,60,Taught,
+2026-09-09,Tom H.,60,No-show,No message
+2026-09-16,Tom H.,60,Cancelled in time,2 days notice
+2026-09-04,Chen L.,45,Taught,
+2026-09-11,Chen L.,45,Late cancel,
+2026-09-18,Chen L.,45,Teacher cancelled,I was ill
